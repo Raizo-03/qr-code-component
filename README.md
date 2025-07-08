@@ -27,8 +27,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Raizo-03/qr-code-componen)
-- Live Site URL: [Add live site URL here](https://qr-code-component-nu-ecru.vercel.app)
+- **Solution URL:** [https://github.com/Raizo-03/qr-code-component](https://github.com/Raizo-03/qr-code-component)
+- **Live Site URL:** [https://qr-code-component-nu-ecru.vercel.app](https://qr-code-component-nu-ecru.vercel.app)
+
 
 ## My process
 
