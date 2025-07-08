@@ -82,8 +82,8 @@ For future projects, I want to:
 
 ## Author
 
--GitHub – @Raizo-03[https://github.com/Raizo-03]
--Frontend Mentor – @Raizo-03[https://www.frontendmentor.io/profile/Raizo-03]
+-GitHub – @Raizo-03(https://github.com/Raizo-03)
+-Frontend Mentor – @Raizo-03(https://www.frontendmentor.io/profile/Raizo-03)
 
 
 
