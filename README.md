@@ -13,9 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -66,13 +63,11 @@ body {
 }
 ```
 
-
 ### Continued development
 For future projects, I want to:
   - Practice building layouts using CSS Grid.
   - Learn to implement accessibility best practices (e.g., proper alt text, landmarks).
   - Improve responsive techniques using media queries.
-
 
 
 ### Useful resources
@@ -83,8 +78,9 @@ For future projects, I want to:
 
 ## Author
 
--GitHub – @Raizo-03(https://github.com/Raizo-03)
--Frontend Mentor – @Raizo-03(https://www.frontendmentor.io/profile/Raizo-03)
+- **GitHub** – [@Raizo-03](https://github.com/Raizo-03)
+- **Frontend Mentor** – [@Raizo-03](https://www.frontendmentor.io/profile/Raizo-03)
+
 
 
 
